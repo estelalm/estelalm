@@ -1,4 +1,6 @@
-###                               <⭐>
+### <⭐>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?estelalm=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=estela.almoraes@gmail.com)](estela.almoraes@gmail.com)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
