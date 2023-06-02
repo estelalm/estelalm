@@ -1,5 +1,3 @@
-<h2 align="left"><⭐></h2>
-
 ###
 
 <p align="left">Cursando Desenvolvimento de Sistemas no SENAI Jandira</p>
