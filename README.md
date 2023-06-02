@@ -1,6 +1,6 @@
 ###
 
-<p align="left">Cursando Desenvolvimento de Sistemas no SENAI Jandira</p>
+<p align="left">-- Cursando Desenvolvimento de Sistemas no SENAI Jandira</p>
 
 ###
 
