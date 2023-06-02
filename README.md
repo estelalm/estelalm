@@ -6,7 +6,7 @@
 
 ###
 
-<p align="center">-  Aprendendo</p>
+<p align="center">Aprendendo...</p>
   
   <div align="center" >
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
@@ -18,6 +18,8 @@
   </div>
 
   <hr>
+  
+<p align="center"></p>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=estelalm&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=estelalm&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false" height="150" alt="languages graph"  />
