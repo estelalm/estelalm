@@ -9,6 +9,7 @@
   <hr>
 <p align="center">Aprendendo...</p>
   
+  <hr>
   <div align="center" >
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
