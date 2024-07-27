@@ -1,30 +1,30 @@
-###
 
-<p align="left">-- Cursando Desenvolvimento de Sistemas no SENAI Jandira</p>
+<p align=center>
+<img src="https://64.media.tumblr.com/3f0a0313c9a17ee741d904b71c3ba7fa/1fe4f18112295619-ea/s540x810/2ad12ef8be409a952812da912c62497314a65006.pnj" align=center>
+</p>
 
-###
+<p align="left">
+          ㅤㅤㅤ <br>
+  ㅤㅤㅤ> Olá, me chamo Estela! <br>
+  ㅤㅤㅤ> Cursando Desenvolvimento de Sistemas no SENAI Jandira <br>
+          ㅤㅤㅤ
+</p>
 
-  <hr>
-<p align="center">Aprendendo...</p>
-  
-  <hr>
-  <div align="center" >
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-<img src ="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src= "https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
-<hr>
-<img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white">
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+<p align=center>
+<img src="https://64.media.tumblr.com/46fb929805c71dcb825eff8ac06cd744/a6a3283f0a320eb3-a4/s400x600/c5b455ca3ecec01774a18ef502ae46624dff7802.pnj" width=24px>
+</p>
+
+
+
+
+#### ㅤㅤㅤEstudando . . .
+ 
+  <div align="center">
+
   </div>
 
-  <hr>
-  
-<p align="center"></p>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=estelalm&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=estelalm&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false" height="150" alt="languages graph"  >
-</div>
-
 ###
+
+<p align=center>
+<img src="https://64.media.tumblr.com/007c1e518176fa5a65933d4dce330036/1fe4f18112295619-7e/s540x810/f921b44d16130766f2ca39e1fa57004e7b7d191e.pnj" align=center>
+</p>
