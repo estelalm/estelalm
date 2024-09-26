@@ -4,7 +4,7 @@
 </p>
 ㅤ  
 <p align="center">
-          ㅤㅤㅤ <br>
+<br>
 > Olá, me chamo Estela!  ㅤㅤ  ㅤㅤ  ㅤ  ㅤ   ㅤㅤㅤㅤㅤ  ㅤㅤㅤㅤ<br>
 > Cursando Desenvolvimento de Sistemas no SENAI Jandiraㅤ<br>
           ㅤㅤㅤ
