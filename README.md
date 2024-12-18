@@ -1,6 +1,6 @@
 
 <p align=center>
-<img src="https://64.media.tumblr.com/3f0a0313c9a17ee741d904b71c3ba7fa/1fe4f18112295619-ea/s540x810/2ad12ef8be409a952812da912c62497314a65006.pnj" align=center>
+<img src="https://64.media.tumblr.com/b9e5703710162e505afe2b495ad703d2/e4f8c035f1add387-05/s75x75_c1/15280590b566c4724652766bd388d50f101eb6ea.gifv" align=center>
 </p>
 ㅤ  
 <p align="center">
@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-<b>Estudando . . . </b>   ㅤㅤㅤㅤㅤ ㅤㅤ ㅤㅤㅤ  ㅤ  ㅤ  ㅤ  ㅤ  ㅤ    ㅤ  ㅤ  ㅤ  ㅤ  ㅤ   ㅤ
+<b>      Estudando . . . </b>   ㅤㅤㅤㅤㅤ ㅤㅤ ㅤㅤㅤ  ㅤ  ㅤ  ㅤ  ㅤ  ㅤ    ㅤ  ㅤ  ㅤ  ㅤ  ㅤ   ㅤ
  </p>
 
   <div align="center">
@@ -28,5 +28,5 @@
 ###
 
 <p align=center>
-<img src="https://64.media.tumblr.com/007c1e518176fa5a65933d4dce330036/1fe4f18112295619-7e/s540x810/f921b44d16130766f2ca39e1fa57004e7b7d191e.pnj" align=center>
+<img src="https://64.media.tumblr.com/b9e5703710162e505afe2b495ad703d2/e4f8c035f1add387-05/s75x75_c1/15280590b566c4724652766bd388d50f101eb6ea.gifv" align=center>
 </p>
