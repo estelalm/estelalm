@@ -6,7 +6,6 @@
 <p align="center">
 <br>
 > Olá, me chamo Estela!  ㅤㅤ  ㅤㅤ  ㅤ  ㅤ   ㅤㅤㅤㅤㅤ  ㅤㅤㅤㅤ<br>
-> Desenvolvedora de software buscando evoluir na área    ㅤ   ㅤ   <br>
           ㅤㅤㅤ
 </p>
 
